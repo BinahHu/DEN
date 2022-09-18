@@ -1,4 +1,4 @@
-torch==1.12.1+cu116
+#torch==1.12.1+cu116
 torchvision>=0.8.1
 timm==0.5.4
 continuum>=1.0.27
